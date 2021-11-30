@@ -73,3 +73,26 @@ nav{
   .active{
       font-weight: 900;
   }
+
+
+  /******    Top menu section          ******/
+  nav.topMenu {
+    font-size: 14px;
+    font-weight: 600;
+  }
+  nav.topMenu .bi-chevron-down {
+    vertical-align: -0.16em;
+  }
+  nav.topMenu .vr { 
+    align-self: center;
+    font-size:  35px;
+  }
+  .topRightMenu a {
+    padding-right: 10px;
+    color: #6c757d;
+  }
+  #mhpNav {
+
+  }
+  #mhpVr {}
+  
